@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.bigcontainer {
+    height:100%;
+    background: rgb(233, 212, 185);
+}
+
+
+
+.top {
+    height:50px;
+    padding:50px;
+    text-align: center;
+}
+
+.dojo1 img {
+    width: 100px;
+}
+
+h1, .dojo1, .wrapper,.pink{
+    display: inline-block;
+}
+
+.bigcontainer {
+    text-align: center;
+}
+
+.box img{
+    width:150px;
+    border:4px solid black;
+    padding:20px;
+    background: skyblue;
+}
+
+.pink img {
+    background: tomato;
+    width:150px;
+    border:4px solid black;
+    padding:20px;
+}
+
+.wrapper, .pink {
+    vertical-align:top;
+}
